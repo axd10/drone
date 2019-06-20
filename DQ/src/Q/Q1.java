@@ -1,5 +1,6 @@
-package Q1;
+package Q;
 
+//гу:23331668
 public class Q1 {
 	public static void main(String arg[]) {
 		Q1 q =new Q1();
